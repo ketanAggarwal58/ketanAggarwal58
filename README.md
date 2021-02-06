@@ -40,6 +40,12 @@
 <br>
 <br>
 
+<p align = 'center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+    &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+</p>
+
 ---
 
 [twitter]: https://twitter.com/KetanAggarwal17
