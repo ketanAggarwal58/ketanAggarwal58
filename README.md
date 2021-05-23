@@ -10,14 +10,19 @@
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
+<a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-[<img align="left" alt="ketan Aggarwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[<img align="left" alt="ketan Aggarwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Ketan Aggarwal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br />
+
+I also regularly participates in Hackathons either as a participant or mentor. and previously won at:
+
+* ✨ Hack the Mountain (Top 10)
+* ✨ Nasa Space app 2020 (Participant)
+* ✨ OctaHacks 2020 (Participant)
 
 ### Languages and Tools:
 
