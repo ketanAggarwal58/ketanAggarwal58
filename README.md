@@ -12,15 +12,16 @@
 ### Connect with me:
 <a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br />
 
-I also regularly participates in Hackathons either as a participant or mentor. and previously won at:
+I also regularly participates in Hackathons either as a participant or as a mentor. and previously won at:
 
 * ✨ Hack the Mountain (Top 10)
 * ✨ Nasa Space app 2020 (Participant)
