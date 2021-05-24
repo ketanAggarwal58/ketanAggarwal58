@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.medium.com/in/ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
