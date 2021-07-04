@@ -70,6 +70,14 @@ I also regularly participates in Hackathons either as a participant or as a ment
 
 ---
 
+<p align="center">
+    <a href="https://github.com/ketanAggarwal58/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ketanAggarwal58&theme=dracula" />
+  </a>
+</p>
+
+---
+
 <p align = 'center'>
 <img src="https://github-readme-stats.vercel.app/api?username=ketanAggarwal58&theme=dracula" alt="my github stats" height="190px" />
     &nbsp;
