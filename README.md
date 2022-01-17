@@ -1,4 +1,15 @@
-## Hi there, I'm Ketan Aggarwal 👋
+# Hi there, I'm Ketan Aggarwal 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
+
+### I'm a Developer, Mercedes Benz fanboy, and a Student!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developer to build world a better place
+- 🥅 2021 Goal: Learn Machine Learning
+- ⚡ Fun fact: I love to play guitar
+
+## Stats
 
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
@@ -7,16 +18,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ketanAggarwal58&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
-
-## I'm a Developer, Mercedes Benz fanboy, and a Student!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer to build world a better place
-- 🥅 2021 Goal: Learn Machine Learning
-- ⚡ Fun fact: I love to play guitar
-
-### Connect with me:
+## Connect with me:
 
 <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
@@ -34,7 +36,7 @@ I also regularly participates in Hackathons either as a participant or as a ment
 * ✨ Nasa Space app 2020 (Participant)
 * ✨ OctaHacks 2020 (Participant)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
