@@ -1,11 +1,11 @@
+## Hi there, I'm Ketan Aggarwal 👋
+
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ketanAggarwal58&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
-
-## Hi there, I'm Ketan Aggarwal 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
 
