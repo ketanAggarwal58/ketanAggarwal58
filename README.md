@@ -9,15 +9,6 @@
 - 🥅 2021 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to play guitar
 
-## Stats
-
-<p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ketanAggarwal58&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
 ## Connect with me:
 
 <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
@@ -27,6 +18,13 @@
 <a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<p align="center">
+    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ketanAggarwal58&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
 
 <br />
 
