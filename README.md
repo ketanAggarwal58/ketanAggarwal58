@@ -9,6 +9,8 @@
 - 🥅 2022 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to play guitar
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
+
 ## Connect with me:
 
 <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
