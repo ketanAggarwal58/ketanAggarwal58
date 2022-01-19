@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer to build world a better place
-- 🥅 2021 Goal: Learn Machine Learning
+- 🥅 2022 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to play guitar
 
 ## Connect with me:
