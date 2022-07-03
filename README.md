@@ -97,6 +97,10 @@ I also regularly participates in Hackathons either as a participant or as a ment
 
 ---
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanAggarwal58&" alt="ketanAggarwal58" /></p>
+
+---
+
 [twitter]: https://twitter.com/KetanAggarwal17
 [instagram]: https://www.instagram.com/ketanaggarwal58
 [linkedin]: https://linkedin.com/in/ketan-aggarwal-594773187
