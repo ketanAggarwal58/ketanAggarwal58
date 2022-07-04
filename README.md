@@ -17,6 +17,8 @@
 
 <a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
+<a href="https://leetcode.com/ketanaggarwal58/" target="_blank"><img alt="Leet Code" src="https://img.shields.io/badge/leetcode-%23191919.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 <a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
