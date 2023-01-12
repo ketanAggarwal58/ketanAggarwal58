@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer to build world a better place
-- 🥅 2022 Goal: Learn Machine Learning
+- 🥅 2023 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to play guitar
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
