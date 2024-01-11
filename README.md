@@ -5,8 +5,8 @@
 ### I'm a Developer, Mercedes Benz fanboy, and a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer to build world a better place
-- 🥅 2023 Goal: Learn Machine Learning
+- 👯 I’m looking to collaborate with other developers to build the world a better place
+- 🥅 2024 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to play guitar
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
@@ -32,7 +32,7 @@
 
 <br />
 
-I also regularly participates in Hackathons either as a participant or as a mentor. and previously won at:
+I also regularly participate in Hackathons either as a participant or as a mentor. and previously won at:
 
 * ✨ Hack the Mountain (Top 10)
 * ✨ Nasa Space app 2020 (Participant)
