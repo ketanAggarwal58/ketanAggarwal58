@@ -1,6 +1,6 @@
 # Hi there, I'm Ketan Aggarwal 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
+[![X Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=909090&logo=X&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
 
 ### Innovative Technology Enthusiast | Code Alchemist Transforming Ideas into Reality | B. Tech. Graduate 2023 Batch
 
@@ -15,7 +15,7 @@
 
 <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-<a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/KetanAggarwal17" target="_blank"><img alt="@KetanAggarwal17" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 
 <a href="https://leetcode.com/ketanaggarwal58/" target="_blank"><img alt="Leet Code" src="https://img.shields.io/badge/leetcode-%23191919.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
